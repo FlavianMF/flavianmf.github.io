@@ -1,5 +1,3 @@
-Here you can say lots of fun things about your site.
+Este é o texto da home page do blog
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+O post abaixo veio junto com o tamplate, logo terá um post sobre como criar um blog utilizando o Github Pages
